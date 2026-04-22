@@ -32,7 +32,7 @@ Codex-on-Rails tied for first place in the most demanding part of the BitGN PAC1
 ```
 
 
-You can add images by putting them into `res` folder and linking them like this:
+You can add images by putting them into `res` folder and linking them like this: `![my diagram](res/scaffold-insight-diagram.svg)`. They will render like this:
 
 ![](res/scaffold-insight-diagram.svg)
 
