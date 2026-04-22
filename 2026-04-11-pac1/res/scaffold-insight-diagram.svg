@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" fill="none">
+  <rect width="960" height="480" rx="24" fill="#F4F1E8"/>
+  <rect x="56" y="64" width="848" height="352" rx="20" fill="#FFFDFC" stroke="#D8D1C2" stroke-width="2"/>
+  <text x="96" y="118" fill="#1F2826" font-family="Arial, sans-serif" font-size="28" font-weight="700">PAC1 Insight Scaffold</text>
+  <text x="96" y="150" fill="#55615E" font-family="Arial, sans-serif" font-size="18">Replace this with a real chart, screenshot, or competition artifact.</text>
+  <line x1="96" y1="330" x2="864" y2="330" stroke="#C9C0AE" stroke-width="2"/>
+  <line x1="96" y1="190" x2="96" y2="330" stroke="#C9C0AE" stroke-width="2"/>
+  <path d="M128 300C176 280 212 252 260 244C308 236 344 260 392 232C440 204 476 170 524 164C572 158 608 180 656 172C704 164 740 118 788 112" stroke="#CD2E29" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="128" cy="300" r="8" fill="#CD2E29"/>
+  <circle cx="260" cy="244" r="8" fill="#CD2E29"/>
+  <circle cx="392" cy="232" r="8" fill="#CD2E29"/>
+  <circle cx="524" cy="164" r="8" fill="#CD2E29"/>
+  <circle cx="656" cy="172" r="8" fill="#CD2E29"/>
+  <circle cx="788" cy="112" r="8" fill="#CD2E29"/>
+  <text x="124" y="360" fill="#55615E" font-family="Arial, sans-serif" font-size="16">Launch</text>
+  <text x="748" y="360" fill="#55615E" font-family="Arial, sans-serif" font-size="16">Report</text>
+</svg>
