@@ -1,3 +1,18 @@
+
+# Instructions to link architectures to BitGN: PAC1 Hall of Fame leaderboards!
+
+
+(0) In order to share the architecture, it has to be written in English
+
+(1) Name the file - `ACCOUNTID_architecture.md` e.g. `4jKiTS_codex-on-rails.md`
+
+(2) populate YAML frontmatter fields with source code, run_ids (could be multiple). Examples are above in this file. author info is optional (you can stay anonymous).
+
+
+YAML frontmatter is a section before MD that looks, for example, like this:
+
+
+```md
 ---
 source_code: https://github.com/inozemtsev/bitgn
 run_ids:
@@ -9,13 +24,12 @@ company: Nevis
 impact: Uses a frontier coding agent as the solver, while rails keep its runtime actions narrow and reliable.
 challenge: PAC
 ---
-# Instructions to link architectures to BitGN: PAC1 Hall of Fame leaderboards!
 
+# Codex-on-Rails: Code-Mediated Execution (PAC1)
 
-(0) In order to share the architecture, it has to be written in English
-(1) Name the file - `ACCOUNTID_architecture.md` e.g. `4jKiTS_codex-on-rails.md`
-(2) populate YAML fields with source code, run_ids (could be multiple). Examples are above in this file
-(3) author info is optional (you can stay anonymous)
+Codex-on-Rails tied for first place in the most demanding part of the BitGN PAC1 blind run, alongside [Operation Pangolin](2026-04-18-pac1-winner-operation-pangolin.md).
+...
+```
 
 
 You can add images by putting them into `res` folder and linking them like this:
