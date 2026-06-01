@@ -8,6 +8,7 @@ model_names:
 author: Your Name
 author_linkedin: https://www.linkedin.com/in/YOUR_PROFILE/
 author_github: https://github.com/YOUR_ACCOUNT
+author_telegram: @YOUR_HANDLE
 company: Your Company
 impact: One sentence explaining the main architectural idea and why it mattered for ECOM1.
 challenge: ecom
