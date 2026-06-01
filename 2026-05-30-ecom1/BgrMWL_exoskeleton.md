@@ -17,7 +17,7 @@ challenge: ecom
 
 # Exoskeleton: a lightweight model-dispatcher in a deterministic harness
 
-_The architecture of the agent `@dev_salikhov ecom1 gpt-5.4-mini`, which took first place in the **Speed** and **Live PROD** categories of the [**BitGN ECOM1**](https://bitgn.com/challenge/ecom) challenge — on a smaller model._
+_The architecture of the agent `@dev_salikhov ecom1 gpt-5.4-mini`, which took first place in the **Speed** and **Live PROD** categories of the [**BitGN ECOM1**](https://bitgn.com/challenge/ecom) challenge — on a smaller model. The Russian version of this article is available [in the source repository](https://github.com/muxx/bitgn-ecom1-exoskeleton/blob/main/articles/ARCHITECTURE_RU.md)._
 
 ## About the challenge
 
