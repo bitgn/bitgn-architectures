@@ -38,6 +38,7 @@ model_names:
 author: Example Author
 author_linkedin: https://www.linkedin.com/in/example/
 author_github: https://github.com/example
+author_telegram: @handle
 company: Example Company
 impact: Combines a commerce policy reader, deterministic state lookup, and a single tool-using agent for checkout, payment, return, and support tasks.
 challenge: ecom
