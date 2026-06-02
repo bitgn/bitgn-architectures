@@ -13,9 +13,11 @@ challenge: ecom
 
 # BitGN ECOM1: Mechanical Harness on a Cheap Model
 
-I built an agent on DeepSeek v4 Flash — a cheap open-weight model — and wrapped it in a mechanical harness: a task classifier, a set of linters, and preflight checks. Any business logic that can be done without an LLM, is done without an LLM. Result: 51/100 tasks, ~46th place, $0.28 for a full run on DeepSeek Flash.
+I built an agent on DeepSeek v4 Flash — a cheap open-weight model — and wrapped it in a mechanical harness: a task classifier, a set of linters, and preflight checks. Any business logic that can be done without an LLM, is done without an LLM. Result: 51.4/100 tasks, ~46th place, $0.28 for a full run on DeepSeek Flash.
 
 The result is nothing special, but I picked up some important lessons along the way and want to share them with the community.
+
+![Architecture diagram](res/PrtzSE_architecture.png)
 
 ---
 
