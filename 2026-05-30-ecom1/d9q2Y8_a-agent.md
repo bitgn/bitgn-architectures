@@ -15,7 +15,7 @@ challenge: ecom
 # A-Agent: Train the Workspace, Then the Domain
 
 
-Core idea: a single CodeAct agent with three hot-swappable prompt layers (system prompt + domain SKILL + answer-review PRESUBMIT_SKILL) on top of a persistent in-process Python REPL. The system prompt is trained against a small Qwen under one rule — the "Bitter Lesson" used as a regression test: a change ships only if a stronger model already does better than a weaker one on the bare prompt, before any domain skill is layered in. The same system prompt then transferred from PAC1 to ECOM with zero edits. The repo is intentionally small (~1K LOC of agent core plus two skills); the discipline that produced this version of CodeAct is the point, not CodeAct itself.
+Core idea: a single CodeAct agent with two hot-swappable prompt layers (system prompt + domain SKILL + answer-review PRESUBMIT_SKILL) on top of a persistent in-process Python REPL. The system prompt is trained against a small Qwen under one rule — the "Bitter Lesson" used as a regression test: a change ships only if a stronger model already does better than a weaker one on the bare prompt, before any domain skill is layered in. The same system prompt then transferred from PAC1 to ECOM with zero edits. The repo is intentionally small (~1K LOC of agent core plus two skills); the discipline that produced this version of CodeAct is the point, not CodeAct itself.
 
 ## How does it work?
 
